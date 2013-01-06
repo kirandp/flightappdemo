@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: 1
+  in: 
+  on: 2013-01-06 16:40:05
+  out: 2013-01-06 16:40:05
+  off: 2013-01-06 16:40:05
+  source: MyString
+  dest: MyString
+  desc: MyString
+
+two:
+  number: 1
+  in: 
+  on: 2013-01-06 16:40:05
+  out: 2013-01-06 16:40:05
+  off: 2013-01-06 16:40:05
+  source: MyString
+  dest: MyString
+  desc: MyString
